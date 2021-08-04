@@ -1,0 +1,30 @@
+project name: scholarship management
+
+module description: 
+                  admin module
+		  student module
+		  scholarship officer module
+                  
+
+Requirements:
+
+Admin module:
+            add scholarshipil oru list view cheyanm eathoke scholarship ulathinte table vekkanm
+then scholarship officernte list view venam
+college studentum table ind bt value verunila so select query vekkanm
+
+student_index.php(student module);
+                     scolarship officer verify cheyanm apply cheythath ,
+admin approve cheyanm,
+updateil value display agunila,
+feedbackil select query vekkanm display cheyanm, 
+studentinn apply reqest confirm cheytha message venam
+
+scholarship officer module(scholarship_officer.php)
+                      applied student verify cheyanm nd display cheyanm select query vekanm
+
+validation venm tablesil (address,phonenum,email,)
+
+
+redirect cheyanth ntho mistake ind project edukumbo admin page ntho veranila 
+,value enter cheyth kayinj backil veendum aa value kanund ath mattanm
